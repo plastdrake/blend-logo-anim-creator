@@ -7,9 +7,8 @@ and the project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Changed
-- Relicensed from PolyForm Noncommercial 1.0.0 to **PolyForm Perimeter 1.0.1**:
-  commercial use is now permitted, including paid client work. Providing a
-  competing product remains prohibited.
+- Relicensed to **MIT** — free for anyone to use, modify and share, including
+  commercially.
 
 ## [1.2.0] - 2026-09-27
 

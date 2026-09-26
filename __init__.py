@@ -1,8 +1,5 @@
-# SPDX-License-Identifier: LicenseRef-PolyForm-Perimeter-1.0.1
-# Required Notice: Copyright 2026 Sebastian Svensson
-# Licensed under the PolyForm Perimeter License 1.0.1 - free to use,
-# including commercially; providing a competing product is not permitted.
-# https://polyformproject.org/licenses/perimeter/1.0.1
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Sebastian Svensson
 """Blend Logo Anim Creator: procedural animated logo intros.
 
 Architecture (GRASP/SOLID):
