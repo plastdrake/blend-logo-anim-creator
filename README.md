@@ -66,7 +66,7 @@ through **Preferences → Extensions → Install from Disk…**.
 ### From source
 
 ```bat
-git clone https://github.com/<owner>/blend-logo-anim-creator.git
+git clone https://github.com/plastdrake/blend-logo-anim-creator.git
 cd blend-logo-anim-creator
 python tools/deploy.py
 ```

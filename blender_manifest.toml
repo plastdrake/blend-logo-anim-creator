@@ -5,6 +5,7 @@ version = "1.2.0"
 name = "Blend Logo Anim Creator"
 tagline = "Procedural animated logo intros, rendered to video"
 maintainer = "Sebastian Svensson <sebastian.ng.svensson@gmail.com>"
+website = "https://github.com/plastdrake/blend-logo-anim-creator"
 type = "add-on"
 
 # Supported Blender versions
