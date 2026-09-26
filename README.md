@@ -166,6 +166,8 @@ locally.
 
 Released under the **[PolyForm Noncommercial License 1.0.0](LICENSE)**.
 
+> Required Notice: Copyright 2026 Sebastian Svensson
+
 - **Free to use** for any noncommercial purpose — personal projects, hobby
   work, study, research, and use by charities, schools, public research bodies
   and government institutions.
