@@ -1,3 +1,8 @@
+# SPDX-License-Identifier: LicenseRef-PolyForm-Noncommercial-1.0.0
+# Required Notice: Copyright 2026 Sebastian Svensson
+# Licensed under the PolyForm Noncommercial License 1.0.0 - free for
+# noncommercial use; commercial use and resale are not permitted.
+# https://polyformproject.org/licenses/noncommercial/1.0.0
 """Blend Logo Anim Creator: procedural animated logo intros.
 
 Architecture (GRASP/SOLID):
