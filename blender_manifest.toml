@@ -12,5 +12,5 @@ type = "add-on"
 blender_version_min = "4.2.0"
 
 license = [
-  "LicenseRef-PolyForm-Noncommercial-1.0.0",
+  "LicenseRef-PolyForm-Perimeter-1.0.1",
 ]

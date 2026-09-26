@@ -4,6 +4,13 @@ All notable changes to this project are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and the project adheres to [Semantic Versioning](https://semver.org/).
 
+## [Unreleased]
+
+### Changed
+- Relicensed from PolyForm Noncommercial 1.0.0 to **PolyForm Perimeter 1.0.1**:
+  commercial use is now permitted, including paid client work. Providing a
+  competing product remains prohibited.
+
 ## [1.2.0] - 2026-09-27
 
 ### Added
@@ -71,3 +78,8 @@ and the project adheres to [Semantic Versioning](https://semver.org/).
 - Five procedural icon presets: gem + rings, torus knot, shield, cube abstract,
   orbit spheres.
 - Blender extension manifest and UI panel.
+
+[Unreleased]: https://github.com/plastdrake/blend-logo-anim-creator/compare/v1.2.0...main
+[1.2.0]: https://github.com/plastdrake/blend-logo-anim-creator/releases/tag/v1.2.0
+[1.1.0]: https://github.com/plastdrake/blend-logo-anim-creator
+[1.0.0]: https://github.com/plastdrake/blend-logo-anim-creator

@@ -164,24 +164,29 @@ locally.
 
 ## License
 
-Released under the **[PolyForm Noncommercial License 1.0.0](LICENSE)**.
+Released under the **[PolyForm Perimeter License 1.0.1](LICENSE)**.
 
 > Required Notice: Copyright 2026 Sebastian Svensson
 
-- **Free to use** for any noncommercial purpose — personal projects, hobby
-  work, study, research, and use by charities, schools, public research bodies
-  and government institutions.
-- **Free to modify** and share, as long as the license travels with it.
-- **Commercial use and resale are not permitted.** You may not sell the add-on,
-  sell a product built on it, or use it in paid client work.
+**In plain terms:**
 
-> If you need commercial rights, get in touch.
->
-> Note: this license is not GPL-compatible, so the add-on cannot be published to
-> Blender's official extensions platform (`extensions.blender.org`), which
-> requires a free/libre license. If publishing there matters more than
-> restricting commercial use, switching to `SPDX:GPL-3.0-or-later` is a
-> one-line change in `blender_manifest.toml`.
+- ✅ **Use it for anything** — personal projects, study, hobby work, and
+  **paid commercial work** such as making logos for clients.
+- ✅ **Modify it** and share your changes, as long as the license comes with them.
+- ❌ **Don't sell the add-on**, and don't ship a competing product built from it
+  (including as a service, a port to another platform, or even for free).
+
+The formal wording: *"Any purpose is a permitted purpose, except for providing
+to others any product that competes with the software."*
+
+> Two caveats worth knowing. This is a *source-available* license, not an
+> open-source one — so it can't be published on Blender's official extensions
+> platform (`extensions.blender.org`), which requires a free/libre license. And
+> GitHub will label it "Other" in the sidebar, because PolyForm isn't among the
+> licences GitHub auto-detects. If either matters more than blocking resale,
+> switching to `SPDX:GPL-3.0-or-later` is a one-line change in
+> `blender_manifest.toml`. I'm not a lawyer — if this is load-bearing for you,
+> have it reviewed.
 
 ## Credits
 
