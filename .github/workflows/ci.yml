@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    name: Syntax + manifest
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Byte-compile all modules
+        run: python -m compileall -q .
+
+      - name: Validate blender_manifest.toml
+        run: python tools/check_manifest.py
+
+  # Full end-to-end tests need Blender and a GPU for Eevee, so they run
+  # locally via `python tools/deploy.py`. See docs/ARCHITECTURE.md.

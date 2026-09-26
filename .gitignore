@@ -1,0 +1,38 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build artefacts
+/dist/
+/build/
+*.zip
+
+# Blender
+*.blend
+*.blend1
+*.blend2
+*.blend[0-9]
+*.blend[0-9][0-9]
+
+# Rendered output (media anywhere except documentation stills)
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.avi
+*.exr
+*.png
+*.jpg
+*.jpeg
+!docs/**/*.png
+!docs/**/*.jpg
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
