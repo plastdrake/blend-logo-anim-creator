@@ -150,6 +150,7 @@ python tools/check_manifest.py     :: manifest schema, no Blender needed
 python tools/deploy.py             :: clean + validate + test + package + install
 python tools/deploy.py --test      :: headless smoke tests only
 python tools/deploy.py --package   :: build dist/*.zip only
+python tools/publish.py            :: fill in repo URLs, create the GitHub repo, push
 ```
 
 The smoke tests assert the structural invariants that have actually broken

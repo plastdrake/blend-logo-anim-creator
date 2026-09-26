@@ -106,6 +106,7 @@ The add-on targets Blender 4.2 LTS through 5.x. Differences are isolated:
 | `python tools/deploy.py` | Clean → manifest validate → headless smoke tests → package → install → verify the *installed* copy. |
 | `python tools/deploy.py --test` | Just the smoke tests. |
 | `python tools/deploy.py --package` | Just the distributable zip. |
+| `python tools/publish.py [--private] [--dry-run]` | Fill the real repo URL into README/manifest, commit, create the GitHub repo and push. |
 
 `tools/smoke_test.py` builds both styles in headless Blender and asserts the
 structural invariants that have actually broken before, for example:
